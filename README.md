@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes">
-    <img src="/img/the-defi-learning-path-of-hannes-logo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/main/img/the-defi-learning-path-of-hannes-logo.png" alt="Logo">
   </a>
 </p>
 
@@ -15,17 +15,12 @@
   <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
-  <a href="LICENSE">
+  <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
   </a>
 </p>
 
 <br>
-
----
-
-# The DeFi Learning Path of Hannes
-
 
 ---
 
