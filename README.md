@@ -13,15 +13,15 @@
 
 <p align="center">
     <a href="https://github.com/sponsors/hannesgao">
-        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor" />
+        <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
     </a>
     &nbsp;
     <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/pulls">
-        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&longCache=true" alt="Pull Requests" />
+        <img alt="Pull Requests" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&longCache=true" />
     </a>
     &nbsp;
     <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge&longCache=true" alt="MIT License" />
+        <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge&longCache=true" />
      </a>
 </p>
 
