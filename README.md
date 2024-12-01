@@ -15,6 +15,7 @@
   <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
+  &nbsp;
   <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
   </a>
