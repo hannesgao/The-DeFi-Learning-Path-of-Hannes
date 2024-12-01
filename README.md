@@ -1,5 +1,31 @@
+
+<p align="center">
+  <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes">
+    <img src="/img/the-defi-learning-path-of-hannes-logo.png" alt="Logo">
+  </a>
+</p>
+
+<p align="center">"<i>Where there's a will, there's a way.</i>"</p>
+
+<h4 align="center">A collection of useful notes, books, tutorials, manuels and tools for your DeFi Learning Path</h4>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
+  </a>
+</p>
+
+<br>
+
+---
+
 # The DeFi Learning Path of Hannes
-A collection of useful notes, books, tutorials, manuels and tools for the DeFi Learning Path
+
 
 ---
 
