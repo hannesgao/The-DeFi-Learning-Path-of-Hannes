@@ -46,6 +46,8 @@ If you find something which doesn't make sense, or something doesn't seem right,
 ### 🎖️ Badges 4 README.md Profile Project from [@alexandresanlim](https://github.com/alexandresanlim)
 > The badge design and GitHub Sponsor settings for this project were inspired by the [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) project and its author [@alexandresanlim](https://github.com/alexandresanlim).
 
+<br>
+
 ---
 
 ## 📑 Table of Contents
@@ -76,16 +78,18 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 > Notice: The table of contents is still being updated...
 
+<br>
+
 ---
 
-# 1. Ethereum [<sup>[TOC]</sup>](#table-of-contents)
+# 1. Ethereum [<sup>[TOC]</sup>](#-table-of-contents)
 
 ## 1.1 Ethereum & EVM Basic
 - [ethereum-evm-illustrated.pdf](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 ---
 
-# 2. Smart Contract Development (Solidity) [<sup>[TOC]</sup>](#anger-table-of-contents)
+# 2. Smart Contract Development (Solidity) [<sup>[TOC]</sup>](#-table-of-contents)
 
 ## 2.1 Documentations
 
@@ -135,7 +139,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 ---
 
-# 3. DeFi [<sup>[TOC]</sup>](#anger-table-of-contents)
+# 3. DeFi [<sup>[TOC]</sup>](#-table-of-contents)
 
 ## 3.1 AMM based DEX
 
@@ -193,7 +197,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 ---
 
-# 4. Upgradeable Smart Contract [<sup>[TOC]</sup>](#anger-table-of-contents)
+# 4. Upgradeable Smart Contract [<sup>[TOC]</sup>](#-table-of-contents)
 
 ## 4.1 Proxy
 
