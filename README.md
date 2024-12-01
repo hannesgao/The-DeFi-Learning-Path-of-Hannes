@@ -17,7 +17,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/pulls">
-        <img alt="Pull Requests" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&longCache=true" />
+        <img alt="Pull Requests" src="https://img.shields.io/badge/PR-welcome-brightgreen.svg?style=for-the-badge&longCache=true" />
     </a>
     &nbsp;
     <a href="https://github.com/hannesgao/The-DeFi-Learning-Path-of-Hannes/blob/main/LICENSE">
@@ -38,16 +38,54 @@ It is mainly for experienced developers who are interested in learning smart con
 ## 💡 Contributing
 If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
 
+## 💖 Special Thanks to Referenced Projects
+
+### 📔 The Book of Secret Knowledge Project from [@trimstray](https://github.com/trimstray)
+> The concept, file structure, header design, logo design and foreword formats of this project were all inspired by [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) project from [@trimstray](https://github.com/trimstray).
+
+### 🎖️ Badges 4 README.md Profile Project from [@alexandresanlim](https://github.com/alexandresanlim)
+> The badge design and GitHub Sponsor settings for this project were inspired by the [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) project and its author [@alexandresanlim](https://github.com/alexandresanlim).
+
 ---
 
-# 1. Ethereum
+## 📑 Table of Contents
+
+**[1. Ethereum](#1-ethereum-toc)**  
+
+**[2. Smart Contract Development (Solidity)](#2-smart-contract-development-solidity-toc)**
+- [2.1 Documentations](#21-documentations)
+- [2.2 Solidity & Foundry Tutorials (Free Course)](#22-solidity--foundry-tutorials-free-course)
+- [2.3 Solidity Learning Toolkit](#23-solidity-learning-toolkit)
+- [2.4 Solidity Learning Challenges & Games](#24-solidity-learning-challenges--games)  
+
+**[3. DeFi](#3-defi-toc)**
+- [3.1 AMM based DEX](#31-amm-based-dex)
+- [3.2 Uniswap](#32-uniswap)
+  - [3.2.1 Uniswap V1](#321-uniswap-v1)
+  - [3.2.2 Uniswap V2](#322-uniswap-v2)
+  - [3.2.3 Uniswap V3](#323-uniswap-v3)
+
+**[4. Upgradeable Smart Contract](#4-upgradeable-smart-contract-toc)**
+- [4.1 Proxy](#41-proxy)
+  - [4.1.1 Transparent Proxy](#411-transparent-proxy)
+  - [4.1.2 UUPS (Universal Upgradeable Proxy Standard) Proxy](#412-uups-universal-upgradeable-proxy-standard-proxy)
+- [4.2 OpenZeppelin Upgradeable Contracts](#42-openzeppelin-upgradeable-contracts)
+  - [4.2.1 OpenZeppelin Contracts Wizard](#421-openzeppelin-contracts-wizard)
+  - [4.2.2 OpenZeppelin Upgrades Library](#422-openzeppelin-upgrades-library)
+  - [4.2.3 OpenZeppelin Upgrades Plugins](#423-openzeppelin-upgrades-plugins)
+
+> Notice: The table of contents is still being updated...
+
+---
+
+# 1. Ethereum [<sup>[TOC]</sup>](#table-of-contents)
 
 ## 1.1 Ethereum & EVM Basic
 - [ethereum-evm-illustrated.pdf](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 ---
 
-# 2. Smart Contract Development (Solidity)
+# 2. Smart Contract Development (Solidity) [<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ## 2.1 Documentations
 
@@ -97,7 +135,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 ---
 
-# 3. DeFi
+# 3. DeFi [<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ## 3.1 AMM based DEX
 
@@ -155,7 +193,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 ---
 
-# 4. Upgradeable Smart Contract
+# 4. Upgradeable Smart Contract [<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ## 4.1 Proxy
 
