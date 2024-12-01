@@ -29,6 +29,17 @@
 
 ---
 
+## 📝 What is it?
+This repository is a collection of various materials and tools that I use in my daily learning about blockchain, smart contract development, and DeFi. It brings together a lot of useful information. It is an invaluable collection of knowledge for me and I check it often.
+
+## 👨‍💻 For whom?
+It is mainly for experienced developers who are interested in learning smart contract development and DeFi related skills, as well as blockchain industry practitioners and smart contract developers.
+
+## 💡 Contributing
+If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+
+---
+
 # 1. Ethereum
 
 ## 1.1 Ethereum & EVM Basic
