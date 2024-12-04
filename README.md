@@ -170,6 +170,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 - [Programming DeFi: Uniswap. Part 1](https://jeiwan.net/posts/programming-defi-uniswap-1/)
 - [Programming DeFi: Uniswap. Part 2](https://jeiwan.net/posts/programming-defi-uniswap-2/)
 - [Programming DeFi: Uniswap. Part 3](https://jeiwan.net/posts/programming-defi-uniswap-3/)
+> Notice: It is recommended to read the three tutorials in this section first, and if interested follow the tutorials to try to write the Solidity smart contract code that implements the core functionality of Uniswap V1.
 
 ### 3.2.2 Uniswap V2
 
