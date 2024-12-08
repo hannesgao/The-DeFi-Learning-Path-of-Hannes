@@ -139,8 +139,8 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 > **To Join the [BuidlGuidl](https://buidlguidl.com/)**: It is necessary to successfully complete the first five challenges and pass the automated tests in order to join the [BuidlGuidl](https://buidlguidl.com/) with the wallet address used to pass the challenges (signature is required when submitting the results of the challenge).
 
-### 2.4.2 [BuidlGuidl](https://buidlguidl.com/) Onboarding Batches
-- [BuidlGuidl Onboarding Batches](https://buidlguidl.com/batches)
+### 2.4.2 [BuidlGuidl](https://buidlguidl.com/) Batches
+- [BuidlGuidl (Onboarding) Batches](https://buidlguidl.com/batches)
 > **Summary**: [BuidlGuidl Batches](https://buidlguidl.com/batches) is a program designed for builders who have completed (at least the first five challenges of) [Speed Run Ethereum](https://speedrunethereum.com/) and joined the [BuidlGuidl](https://buidlguidl.com/). It's the next step for Web3 developers within the [BuidlGuidl](https://buidlguidl.com/), offering additional challenges and skills to enhance your abilities.
 
 ### 2.4.3 The Ethernaut from OpenZeppelin
